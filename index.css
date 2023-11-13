@@ -1,0 +1,16 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: inherit;
+}
+html{
+    font-size: 60;
+    box-sizing: inherit;
+}
+body{
+    font-family: sans-serif;
+    color: antiquewhite;
+    height: 100vh;
+    position: relative;
+    display: flex;
+}
